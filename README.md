@@ -1,3 +1,3 @@
 # Notes App
 
-Simple Notes API (NodeJs, Javascript)
+Simple Notes API (Hapi, NodeJs, Javascript)
